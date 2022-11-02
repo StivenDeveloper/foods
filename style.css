@@ -1,0 +1,51 @@
+.title1 {
+    color: brown;
+    background-color: black;
+    font-family: cursive;
+}
+
+.title2 {
+  color: brown;
+  background-color: blueviolet;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+body{
+background-image: url(https://i.pinimg.com/originals/0e/a7/71/0ea771c2dea5f9d24a268b90a8a17766.jpg);
+background-size: cover;
+}
+
+body a:hover {
+    color: red;
+}
+
+button p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+button {
+    background-color: orangered; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+table {
+    color: black;
+    background-color: white;
+    
+}
+
+.name-table {
+    font-size: 500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+
